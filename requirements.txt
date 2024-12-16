@@ -1,5 +1,3 @@
-flask<2
-flask-talisman==0.7.0
-gunicorn<21
-redis<3.6
-requests<3
+Flask==2.1.2
+requests
+gunicorn
